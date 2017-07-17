@@ -7,7 +7,7 @@ SAPUI5 is a UI Development toolkit which is built using MVC framework. It's an a
 2. The weather forecast is obtained using free weather api from "apixu.com". 
 3. This weather API returns the call with a Json data.
 4. I manipulate that data to get the information in message box.
-5. Message box pops up with Tempreature in Fahrenheit, Sky Condition, Wind speed in miles, Precipitation, Humidity, Visibility    in miles.
+5. Message box pops up with Temperature in Fahrenheit, Sky Condition, Wind speed in miles, Precipitation, Humidity, Visibility    in miles.
 6. Few images is found in this repository to demonstrate what it looks like at work.
 
 
